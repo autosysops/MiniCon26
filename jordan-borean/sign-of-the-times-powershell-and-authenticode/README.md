@@ -14,3 +14,4 @@ Key Takeaways:
 + Integrate script signing into CI pipelines with timestamping
 + Troubleshoot common signing and certificate lifecycle issues
 
+You can run the presentation code at https://github.com/jborean93/PSConfEU-2026-MiniConf. The presentation runs on a Linux client and a Windows host available through SSH.
